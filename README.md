@@ -31,11 +31,12 @@ scrollToActiveItem: {
 Событие открытия
 
 1. event: 'mouseenter'
-2. event: 'click' (default)
+2. event: 'click' //default
 
 Разрешать сворачивать активный элемент
 
 1. collapsible: false
+2. collapsible: true //default
 
 Добавлять активный класс перед анимацией
 
