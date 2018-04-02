@@ -15,8 +15,11 @@
 
 scrollToActiveItem: {
   enable: true,
+  
   breakpoint: 1023, //по дефолту 767
+  
   animSpeed: 1000,  //скорость анимации
+  
   extraOffset: 0    //дополнительная высота (px или селектор)
 }
 
