@@ -13,12 +13,12 @@
 
 Работает как @media (max-width)<br>
 
-scrollToActiveItem: {<br>
-  enable: true,<br>
-  breakpoint: 1023, //по дефолту 767<br>
-  animSpeed: 1000,  //скорость анимации<br>
-  extraOffset: 0    //дополнительная высота (px или селектор)<br>
-}
+<code>scrollToActiveItem: {</code><br>
+  <code>enable: true,</code><br>
+  <code>breakpoint: 1023, //по дефолту 767</code><br>
+  <code>animSpeed: 1000,  //скорость анимации</code><br>
+  <code>extraOffset: 0    //дополнительная высота (px или селектор)</code><br>
+<code>}</code>
 
 <strong>Дополнительные настройки</strong><br>
 
