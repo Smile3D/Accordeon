@@ -11,16 +11,13 @@
 
 Подскролить к активному слайду<br>
 
-Работает как @media (max-width)
+Работает как @media (max-width)<br>
 
-scrollToActiveItem: {
-  enable: true,
-  
-  breakpoint: 1023, //по дефолту 767
-  
-  animSpeed: 1000,  //скорость анимации
-  
-  extraOffset: 0    //дополнительная высота (px или селектор)
+scrollToActiveItem: {<br>
+  enable: true,<br>
+  breakpoint: 1023, //по дефолту 767<br>
+  animSpeed: 1000,  //скорость анимации<br>
+  extraOffset: 0    //дополнительная высота (px или селектор)<br>
 }
 
 Дополнительные настройки
