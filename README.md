@@ -26,15 +26,15 @@
 active<br>
 
 Событие открытия<br>
-event: 'mouseenter'<br>
-event: 'click' //default<br>
+<code>event: 'mouseenter'</code><br>
+<code>event: 'click' //default</code><br>
 
 Разрешать сворачивать активный элемент<br>
-collapsible: false<br>
-collapsible: true //default<br>
+<code>collapsible: false</code><br>
+<code>collapsible: true //default</code><br>
 
 Добавлять активный класс перед анимацией<br>
-addClassBeforeAnimation: true<br>
+<code>addClassBeforeAnimation: true</code><br>
 
 Разрешить переход по ссылке при повторном нажатии на активную ссылку<br>
-allowClickWhenExpanded: true
+<code>allowClickWhenExpanded: true</code>
