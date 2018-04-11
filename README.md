@@ -23,7 +23,8 @@
 <strong>Дополнительные настройки</strong><br>
 
 Класс активного слайда<br>
-active<br>
+active //default<br>
+<code>activeClass: 'active2'</code>
 
 Событие открытия<br>
 <code>event: 'mouseenter'</code><br>
