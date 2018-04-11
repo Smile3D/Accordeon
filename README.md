@@ -20,25 +20,21 @@ scrollToActiveItem: {<br>
   extraOffset: 0    //дополнительная высота (px или селектор)<br>
 }
 
-Дополнительные настройки
+<strong>Дополнительные настройки</strong><br>
 
-Класс активного слайда
-1. active
+Класс активного слайда<br>
+active<br>
 
-Событие открытия
+Событие открытия<br>
+event: 'mouseenter'<br>
+event: 'click' //default<br>
 
-1. event: 'mouseenter'
-2. event: 'click' //default
+Разрешать сворачивать активный элемент<br>
+collapsible: false<br>
+collapsible: true //default<br>
 
-Разрешать сворачивать активный элемент
+Добавлять активный класс перед анимацией<br>
+addClassBeforeAnimation: true<br>
 
-1. collapsible: false
-2. collapsible: true //default
-
-Добавлять активный класс перед анимацией
-
-1. addClassBeforeAnimation: true
-
-Разрешить переход по ссылке при повторном нажатии на активную ссылку
-
-1. allowClickWhenExpanded: true
+Разрешить переход по ссылке при повторном нажатии на активную ссылку<br>
+allowClickWhenExpanded: true
