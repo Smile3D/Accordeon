@@ -1,13 +1,13 @@
 # Accordeon
 
 Селектор блока аккордеона<br>
-.accordion<br>
+<code>.accordion</code><br>
 
 Селектор открывающей ссылки<br>
-.opener<br>
+<code>.opener</code><br>
 
 Селектор слайд-блока<br>
-.slide<br>
+<code>.slide</code><br>
 
 Подскролить к активному слайду<br>
 
